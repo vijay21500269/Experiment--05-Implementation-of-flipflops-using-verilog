@@ -198,12 +198,31 @@ endmodule
 
 ### TIMING DIGRAMS FOR FLIP FLOPS 
 1.SR FLIP FLOP:
+
+
+
+
 ![img](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/RSFT.jpeg)
+
+
+
 2.D FLIP FLOP:
+
+
+
 ![img](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/DFT.jpeg)
+
+
+
 3.JK FLIP FLOP:
+
+
 ![img](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/JKFT.jpeg)
+
+
 4.T FLIP FLOP:
+
+
 ![img](https://github.com/Aashima02/Experiment--05-Implementation-of-flipflops-using-verilog/blob/main/TFT.jpeg)
 
 
